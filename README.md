@@ -11,7 +11,7 @@ To analyze the top unicorn industries, track their growth in terms of the number
 - **Yearly Rankings**: Number of unicorns and their average valuation (in billions)
 
 ## 🛠️ Technologies Used
-- PostgreSQL (or your SQL flavor)
+- PostgreSQL 
 - SQL joins, aggregation, and filtering
 - Subqueries
 
